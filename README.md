@@ -8,4 +8,4 @@ Your MacBook's notch, now it thinks. NotchAsk turns the notch into a Dynamic Isl
 - Secrets are blacked out on-device before anything is sent to a cloud model
 - Under 1% CPU
 
-Requires macOS 14 or later on Apple silicon. Download the latest build from [Releases](https://github.com/agcodin/notchask/releases/latest).
+Requires macOS 14 or later on Apple silicon. Signed and notarized by Apple. Download the latest build from [Releases](https://github.com/agcodin/notchask/releases/latest).
